@@ -2,9 +2,9 @@
 
 ## Содержание
 1. [Как установить](https://github.com/PAVELNEDELKO1100/irca_v4#Как-установить)
-2. [Как обновить](https://github.com/Elchinchel/IDM-SC-mod#Как-обновить)
+2. [Как обновить](https://github.com/Elchinchel/PAVELNEDELKO1100/irca_v4#Как-обновить)
 3. [Сигналы](https://github.com/Elchinchel/IDM-SC-mod#Сигналы)
-4. [Благодарности](https://github.com/Elchinchel/IDM-SC-mod#Благодарности)
+4. [Благодарности](https://github.com/PAVELNEDELKO1100/irca_v4#Благодарности)
 
 ## Как установить
 
