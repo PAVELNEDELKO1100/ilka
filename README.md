@@ -68,7 +68,7 @@ rm -rf database
 ```
 
 ## Благодарности
-Спасибо https://vk.com/id194861150
+Спасибо https://vk.com/id194861150 и https://m.vk.com/iosiphpage
 Группа IrCA Duty https://vk.com/ircaduty
 Мой вк https://vk.com/id553181713
 Это не является официальным репозиторием IrCA Duty 
