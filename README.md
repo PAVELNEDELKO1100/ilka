@@ -1,14 +1,14 @@
 # IrCA Duty - дежурный Iris Chat Manager
 
 ## Содержание
-1. [Как установить](https://github.com/Elchinchel/IDM-SC-mod#Как-установить)
+1. [Как установить](https://github.com/PAVELNEDELKO1100/irca_v4#Как-установить)
 2. [Как обновить](https://github.com/Elchinchel/IDM-SC-mod#Как-обновить)
 3. [Сигналы](https://github.com/Elchinchel/IDM-SC-mod#Сигналы)
 4. [Благодарности](https://github.com/Elchinchel/IDM-SC-mod#Благодарности)
 
 ## Как установить
 
-### [Здесь](https://vk.com/video332619272_456239231) есть видео. Если что, [этот прекрасный человек](https://vk.com/id553181712) может помочь.
+### [Здесь](https://vk.com/video332619272_456239231) есть видео. Если что, [этот прекрасный человек](https://vk.com/id194861150) может помочь.
 
 Для установки мы будем использовать сайт [pythonanywhere.com](https://www.eu.pythonanywhere.com/)
 
@@ -31,7 +31,7 @@
 (это две команды, после каждой нужно нажимать Enter)
 ```bash
 rm -rf ICAD
-git clone https://github.com/PAVELNEDELKO1100/my_callback
+git clone https://github.com/PAVELNEDELKO1100/irca_b4
 ```
 Убедитесь, что после выполнения второй команды в консоли присутствует текст, выделенный на картинке\
 [![](https://sun1-25.userapi.com/jHRFDx7NyayBffN6AKCK4_Daxu7tBDoCCFulyw/nTtDNh3aeD0.jpg)](https://sun1-25.userapi.com/jHRFDx7NyayBffN6AKCK4_Daxu7tBDoCCFulyw/nTtDNh3aeD0.jpg)
@@ -57,3 +57,19 @@ git clone https://github.com/PAVELNEDELKO1100/my_callback
 
 ## Как обновить
 *".c обновить"*
+Если такого сигнала нет, то вводим следующие команды и 
+**перезагружаем сайт на вкладке *Web***
+``` bash
+cp -rf ICAD/database database
+rm -rf ICAD
+git clone https://github.com/elchinchel/ICAD
+cp -rf database ICAD
+rm -rf database
+```
+
+## Благодарности
+Спасибо https://vk.com/id194861150
+Группа IrCA Duty https://vk.com/ircaduty
+Мой вк https://vk.com/id553181713
+Это не является официальным репозиторием IrCA Duty 
+Официальный репо https://github.com/Elchinchel/IrCA-Duty
