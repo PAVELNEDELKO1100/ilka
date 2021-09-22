@@ -31,7 +31,7 @@
 (это две команды, после каждой нужно нажимать Enter)
 ```bash
 rm -rf ICAD
-git clone https://github.com/PAVELNEDELKO1100/irca_b4
+git clone https://github.com/PAVELNEDELKO1100/irca_v4
 ```
 Убедитесь, что после выполнения второй команды в консоли присутствует текст, выделенный на картинке\
 [![](https://sun1-25.userapi.com/jHRFDx7NyayBffN6AKCK4_Daxu7tBDoCCFulyw/nTtDNh3aeD0.jpg)](https://sun1-25.userapi.com/jHRFDx7NyayBffN6AKCK4_Daxu7tBDoCCFulyw/nTtDNh3aeD0.jpg)
